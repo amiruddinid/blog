@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
@@ -12,6 +13,15 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      animation: {
+        logo: 'logo 2s ease-in-out',
+      },
+      keyframes: {
+        logo: {
+          '0%': { width: '0%', opacity: 1 },
+          '100%': { width:'100%' }
+        }
+      }
     },
   },
   plugins: [],

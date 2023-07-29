@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1" vectornator:layerName="Group 1">
+<path d="M388.846 162.396L230.605 574.462L322.067 574.462L398.884 369.375C415.101 325.177 427.662 280.652 436.565 235.818C447.376 273.657 463.918 321.995 486.176 380.82L559.113 574.462L576.135 574.462L593.109 574.462L610.131 574.462L627.104 574.462L635.833 574.462L644.562 574.462L653.243 574.462L657.22 574.462L488.552 162.396L388.846 162.396ZM559.113 574.462L322.067 574.462L295.395 649.824L290.206 649.824L285.89 649.824L281.574 649.824L277.209 649.824L272.893 649.824L268.577 649.824L264.212 649.824L255.774 649.824L247.336 649.824L238.898 649.824L230.459 649.824L222.021 649.824L213.583 649.824L205.145 649.824L201.653 649.824L120.326 861.604L218.578 861.604L295.395 649.824L587.774 649.824L582.391 649.776L589.132 649.776L559.113 574.462ZM589.132 649.776L589.132 649.824L589.132 649.776L669.295 861.604L774.724 861.604L688.014 649.776L677.636 649.776L661.099 649.776L644.077 649.776L627.104 649.776L610.131 649.776C610.131 649.776 594.382 649.776 589.132 649.776C583.882 649.776 589.132 649.776 589.132 649.776Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 1"/>
+<g opacity="1" vectornator:layerName="Group 1">
+<path d="M806.828 162.396L806.828 574.462L903.674 574.462L903.674 162.396L806.828 162.396ZM806.828 649.873L806.828 861.604L903.674 861.604L903.674 649.873L806.828 649.873Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#f8f8f8" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Curve 1"/>
+</g>
+</g>
+<path d="M18.228 18.228L1005.77 18.228L1005.77 1005.77L18.228 1005.77L18.228 18.228Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="25" vectornator:layerName="Rectangle 1"/>
+</g>
+</svg>
